@@ -1,5 +1,5 @@
 package org.lessons.java.animals;
 
-public class IVolante {
+public interface IVolante {
 	public void vola();
 }
